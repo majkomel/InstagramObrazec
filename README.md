@@ -27,6 +27,6 @@ This project was created for an assignment where the objective was to replicate 
 ##  Preview
 
 ```
-https://yourusername.github.io/your-repo-name/
+https://majkomel.github.io/Instagram-login-registraton/
 ```
 
