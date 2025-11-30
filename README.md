@@ -17,13 +17,6 @@ A simple, clean replica of Instagram's login and sign-up pages. This project foc
 
 This project was created for an assignment where the objective was to replicate the Instagram UI as accurately as possible using only front-end technologies.
 
-## 📷 Comparison Preview
-
-| Original Instagram | My Replica |
-|-------------------|------------|
-| ![Original](readme_images/login-original.png) | ![My Version](readme_images/login-replica.png) |
-
-
 ##  Preview
 
 ```
