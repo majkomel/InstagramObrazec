@@ -32,3 +32,4 @@ https://majkomel.github.io/Instagram-login-registraton/
 
 
 comparison of the original form and my replica:
+(/images/FormComparison.png)
